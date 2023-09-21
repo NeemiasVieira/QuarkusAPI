@@ -25,7 +25,7 @@
 
 <h3>Documentação utilizando o Swagger</h3>
 <p>Esse projeto foi documentado utilizando a ferramenta Swagger, a documentação foi modificada detalhadamente, sendo possível identificar o corpo JSON que a requisição espera, as querys, os tipos de respostas esperados, descrições, exemplos e etc.</p>
-<p>A documentação estará disponível assim que o servidor for iniciado, portanto será necessário clonar o repositório e iniciar a aplicação para consulta=la, o endereço de acesso da documentação é: http://localhost:8080/api</p>
+<p>A documentação estará disponível assim que o servidor for iniciado, portanto será necessário clonar o repositório e iniciar a aplicação para consulta-la, o endereço de acesso da documentação é: http://localhost:8080/api</p>
 <div align="center">
   <img src="/images/swagger.jpg" alt="Documentação do Projeto">
 </div>
@@ -41,7 +41,7 @@
 
 <h2>Agradecimento</h2>
 
-<p>Obrigado por visitar este repositório! Se achou este projeto útil,<strong>dê uma estrela ⭐</strong></p>
+<p>Obrigado por visitar este repositório! Se achou este projeto útil,<strong> dê uma estrela ⭐</strong></p>
 
 <h3>Trabalhos Relacionados:</h2>
 
